@@ -27,3 +27,8 @@ What we have:
 * There are sevral upcoming events planned
 * Fun, interactive games
 * *Much more is on the way*
+
+
+## Why is this all that's on the website?
+
+* It's still under construction
