@@ -1,15 +1,16 @@
-## Welcome to KSNW
+# Welcome to KSNW
 
-### Discord Link: https://discord.gg/jDCTrmD
-### Minecraft IP: 78.180.111.168:25566 
-### Version: Java 1.14.4
+## How to join
+ > [Discord Link](https://discord.gg/jDCTrmD)
+ > Minecraft IP: 78.180.111.168:25566 
+ > Version: Java 1.14.4
 
-What we have:
-SMP
-Creative
-City
-Minecraft to Discord Integration
-Friendly players and staff
+## What we have:
+> SMP
+> Creative
+> City
+> Minecraft to Discord Integration
+> Friendly players and staff
 
 
 ### Markdown
