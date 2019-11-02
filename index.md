@@ -1,8 +1,15 @@
 ## Welcome to KSNW
 
-You can use the [editor on GitHub](https://github.com/Imagonow55/ksnw/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Discord Link: https://discord.gg/jDCTrmD
+Minecraft IP: 78.180.111.168:25566 
+Version: Java 1.14.4
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What we have:
+SMP
+Creative
+City
+Minecraft to Discord Integration
+Friendly players and staff
 
 ### Markdown
 
