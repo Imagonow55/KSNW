@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to KSNW
 
 You can use the [editor on GitHub](https://github.com/Imagonow55/ksnw/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
