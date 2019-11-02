@@ -2,18 +2,22 @@
 
 ## How to join
   #### Discord Link
-  [KSNW](https://discord.gg/jDCTrmD)
+* [KSNW](https://discord.gg/jDCTrmD)
 
 
-  ### Minecraft IP
-  > 78.180.111.168:25566
+### Minecraft IP
+* 78.180.111.168:25566
  
 
-## What we have:
-> SMP, Creative, City, Friendly players and staff, and creepers.
+ ## What we have:
+* SMP
+* Creative
+* City
+* Friendly players and staff
+* Creepers
 
 
-### Markdown
+### Why should you join?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
