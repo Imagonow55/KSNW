@@ -21,6 +21,9 @@ What we have:
 ## Why should you join?
 
 * You have the opportunity to be part of a growing community
+* There are sevral upcoming events planned
+* Fun, interactive games
+* *Much more is on the way*
 
 ### Jekyll Themes
 
