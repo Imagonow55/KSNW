@@ -1,15 +1,16 @@
 # Welcome to KSNW
 
 ## How to join
-  #### Discord Link
+
+Discord Link
 * [KSNW](https://discord.gg/jDCTrmD)
 
 
-### Minecraft IP
+Minecraft IP
 * 78.180.111.168:25566
  
 
- ## What we have:
+What we have:
 * SMP
 * Creative
 * City
@@ -17,27 +18,9 @@
 * Creepers
 
 
-### Why should you join?
+## Why should you join?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
