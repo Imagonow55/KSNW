@@ -13,7 +13,8 @@ Minecraft IP
  Version
  * Java 1.14.4
 
-What we have:
+## What we have:
+
 * SMP
 * Creative
 * City
